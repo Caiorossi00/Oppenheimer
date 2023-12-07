@@ -5,7 +5,7 @@ Este projeto representa a minha introdução ao vasto universo do desenvolviment
 
 Destaques e Aprendizados
 Experimentei com diversas tags HTML, aprendendo a importância de uma estrutura bem definida. <br>
-Experimentei o uso de diversas tags de Css, percebendo como cada elemento adicionado e modificado poderia criar uma camada visual distinta para a minha página.
+Experimentei o uso de diversas tags de CSS, percebendo como cada elemento adicionado e modificado poderia criar uma camada visual distinta para a minha página.
 
 Datas Importantes: <br>
 Início: 01/08/2023 <br>
