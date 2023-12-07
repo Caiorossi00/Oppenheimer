@@ -1,0 +1,193 @@
+/* Style em CSS para a tag <html> */
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style em CSS para a tag <body> */
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: justify;
+  background: linear-gradient(to right, bisque, rgb(140, 134, 134));
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style em CSS para a tag <header> */
+header {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style em CSS para a tag <h1> */
+h1 {
+  text-align: center;
+}
+
+/* Style em CSS para a tag <h2> */
+h2 {
+  text-align: center;
+}
+
+/* Style em CSS para a tag <h4> */
+h4 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: larger;
+}
+
+/* Style em CSS para a tag <ol> */
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+/* Style em CSS para a tag <img> */
+img {
+  width: 400px;
+  border-radius: 200px;
+  float: left;
+  margin: 50px;
+  margin-bottom: 20px;
+}
+
+/* Style em CSS para a classe .sinopse */
+.sinopse {
+  font-weight: bold;
+  font-size: x-large;
+  margin-right: 60px;
+}
+
+/* Style em CSS para a classe .ending */
+.ending {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 0px;
+}
+
+/* Style em CSS para a classe .bilheteria */
+.bilheteria {
+  font-weight: bolder;
+  font-style: italic;
+}
+
+/* Style em CSS para a tag <em> */
+em {
+  color: grey;
+}
+
+/* Style em CSS para a tag <button> */
+button {
+  border-style: solid;
+  background: linear-gradient(bisque, rgba(85, 85, 6, 0.419));
+  color: black;
+  height: max-content;
+  width: 20%;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 41%;
+  margin-bottom: 10px;
+}
+
+/* Style em CSS para a classe .final */
+.final {
+  text-decoration: none;
+  color: black;
+}
+
+/* Style em CSS para a classe .caio */
+.caio {
+  font-size: 20px;
+  font-weight: bolder;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style em CSS para a classe .banner1 */
+.banner1 {
+  width: 400px;
+  border-radius: 200px;
+  margin: 0px;
+}
+
+/* Style em CSS para a tag <main> */
+main {
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Style em CSS para a classe .container */
+.container {
+  border: 2px, white;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  padding: 0;
+  width: max-content;
+  height: max-content;
+  align-items: center;
+  text-align: center;
+}
+
+/* Style em CSS para a classe .botao1 */
+.botao1 {
+  border-style: solid;
+  background: linear-gradient(bisque, rgba(85, 85, 6, 0.419));
+  color: black;
+  height: 25px;
+  width: 160px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* Style em CSS para a classe .botao1 a */
+.botao1 a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+/* Style em CSS para a classe .bottom */
+.bottom {
+  display: flex;
+  justify-content: center;
+}
+
+/* Style em CSS para a classe .central */
+.central {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+
+/* Style em CSS para a classe .grid */
+.grid {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  gap: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 25px;
+  justify-content: center;
+  background-color: white;
+}
+
+/* Style em CSS para a classe .item-grid */
+.item-grid {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  flex-direction: column;
+}
