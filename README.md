@@ -1,4 +1,4 @@
-Meu primeiro contato com HTML e CSS!
+<h1>Meu primeiro contato com HTML e CSS! </h1>
 
 Projeto Inicial: Oppenheimer - Uma página simples com algumas informações sobre o filme. <br>
 Este projeto representa a minha introdução ao vasto universo do desenvolvimento web com HTML e CSS. <br>Esta foi a minha primeira prática real, onde busquei transformar conceitos teóricos em algo tangível, conhecendo cada vez mais a cada nova tag aplicada, a cada novo estilo no CSS e a cada novo elemento que surgia aos meus olhos sempre que alterava algo no código e o via na tela.
