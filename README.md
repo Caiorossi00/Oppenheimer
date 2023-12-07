@@ -11,4 +11,5 @@ Datas Importantes: <br>
 Início: 01/08/2023 <br>
 Conclusão: 04/08/2023
 
-Link: <a href="https://caiorossi00.github.io/Oppenheimer/">Oppenheimer</a>  
+Link: <a href="https://caiorossi00.github.io/Oppenheimer/" target="_blank">Oppenheimer</a>
+
