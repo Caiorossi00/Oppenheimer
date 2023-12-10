@@ -7,17 +7,15 @@ Destaques e Aprendizados:
 <ol>
   <li>Experimentei com diversas tags HTML, aprendendo a importância de uma estrutura bem definida. <br>
   </li>
-  <li>Experimentei o uso de diversas tags de CSS, percebendo como cada elemento adicionado e modificado poderia         criar uma camada visual distinta para a minha página.
+  <li>Experimentei o uso de diversas tags de CSS, percebendo como cada elemento adicionado e modificado poderia  criar uma camada visual distinta para a minha página.
   </li>
 </ol>
 
 Datas Importantes: 
-<ol>
-  <li>Início: 01/08/2023 
-  </li>
-  <li>Conclusão: 04/08/2023
-  </li>
-</ol>
+<ul>
+  <li>Início: 01/08/2023</li>
+  <li>Conclusão: 04/08/2023</li>
+</ul>
 
 Link: <a href="https://caiorossi00.github.io/Oppenheimer/" target="_blank">Oppenheimer</a>
 
